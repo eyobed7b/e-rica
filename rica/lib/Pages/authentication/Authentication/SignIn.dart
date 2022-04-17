@@ -146,7 +146,7 @@ class _SignInScreenState extends State<SignInScreen> {
       child: Row(
         children: <Widget>[
           Text(
-            "Vintage",
+            "Rica ",
             style: TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: _large ? 60 : (_medium ? 50 : 40),
